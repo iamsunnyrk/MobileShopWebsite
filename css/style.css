@@ -1644,8 +1644,8 @@ input[type="radio"] .styled:checked+label::after {
 
 .header {
 	background: #0fc690;
-	padding: 20px 0px;
-	padding-bottom: 20px;
+	padding: 10px 0px;
+	padding-bottom: 10px;
 }
 
 .logo a {
@@ -1968,8 +1968,13 @@ img.zoom {
 
 .carousel-item {
 	text-align: center;
+	height:600px;
+	Width:100%;
 }
 
+.owner {
+	Height:auto;
+}
 .carousel-control-prev {
 	left: inherit;
 }
